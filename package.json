@@ -65,10 +65,10 @@
     "lint-staged": "^8.1.0",
     "memory-fs": "^0.4.1",
     "prettier": "^1.11.1",
-    "standard-version": "^4.3.0",
-    "webpack": "^4.3.0",
     "semantic-release": "^15.13.3",
-    "typescript": "^3.4.3"
+    "standard-version": "^4.3.0",
+    "typescript": "^3.4.3",
+    "webpack": "^4.3.0"
   },
   "keywords": [
     "webpack"

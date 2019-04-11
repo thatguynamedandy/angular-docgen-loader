@@ -4,6 +4,9 @@ node_js:
   - 8
   - 6
 
+before_install:
+  - "npm install angular-docgen"
+
 jobs:
   include:
     - stage: release
