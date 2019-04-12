@@ -1,6 +1,5 @@
 <div align="center">
-  <img width="200" height="200"
-    src="./assets/angular.svg">
+  <img width="200" height="200" src="/assets/angular.svg">
   <a href="https://github.com/webpack/webpack">
     <img width="200" height="200"
       src="https://webpack.js.org/assets/icon-square-big.svg">
@@ -17,10 +16,8 @@ This repo is a direct fork of the [webpack raw loader](https://github.com/webpac
 
 ## Getting Started
 
-To begin, you'll need to install `angular-docgen-loader`:
-
 ```console
-$ npm install angular-docgen-loader --save-dev
+$ npm install angular-docgen angular-docgen-loader --save-dev
 ```
 
 Then add the loader to your `webpack` config. For example:
@@ -58,5 +55,3 @@ Please take a moment to read our contributing guidelines if you haven't yet done
 
 #### [MIT](./LICENSE)
 
-[tests]: https://img.shields.io/circleci/project/github/thatguynamedandy/angular-docgen-loader.svg
-[tests-url]: https://circleci.com/gh/thatguynamedandy/angular-docgen-loader
